@@ -1,0 +1,8 @@
+{
+  "driver": "com.mysql.jdbc.Driver",
+  "username": "xxxx",
+  "password": "xxxxx",
+  "hostname": "xxxxx",
+  "port": "3306",
+  "database": "xxxxx"
+}

@@ -1,0 +1,23 @@
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+.idea/
+.project/
+dist/*
+target/
+lib_managed/
+src_managed/
+src/main/config/mysql.config
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+*.iml
+*.ipr
+*.iws
+.idea
+#out
